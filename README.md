@@ -90,3 +90,8 @@ The dashboard leverages DAX measures to:
 - Insight-driven reporting aligned to business objectives  
 
 ---
+## 📊 Dashboard Preview
+<p align="center">
+  <img src="dashboard.png" width="900"/>
+</p>
+The dashboard provides interactive insights into pricing trends, market performance, and property demand patterns.
